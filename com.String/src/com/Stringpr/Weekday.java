@@ -16,7 +16,7 @@ public class Weekday {
 		} else if (weekday == 4) {
 			System.out.println("thursday");
 		} else if (weekday == 5) {
-			System.out.println("friday");
+			System.out.println("friday"+" its really good day");
 		} else if (weekday == 6) {
 			System.out.println("saturday");
 		} else if (weekday == 7) {

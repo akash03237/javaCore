@@ -2,7 +2,7 @@ package com.rays.tec;
 
 public class Harmonic {
 	public static void main(String[] args) {
-		int num = 55;
+		int num = 10;
 		double result = 0.0;
 		while (num > 0) {
 

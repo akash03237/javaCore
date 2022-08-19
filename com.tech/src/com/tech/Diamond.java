@@ -5,7 +5,7 @@ import java.util.*;
 public class Diamond {
 	public static void main(String[] args) {
 		int i, j, n;
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in); 
 		System.out.println("enter the value of n");
 		n = sc.nextInt();
 
